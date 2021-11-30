@@ -23,4 +23,4 @@ RUN dotnet publish "BasiqTestApp.csproj" -c Release -o /app/publish
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "BasiqTestApp.dll", "--key=MjBlMGRmOTQtOTNmNy00NmE1LWIyNWYtOWVkMDMzNTNmODY2OmJkZDM3ZjM2LWIxYTctNDAxNy05N2NiLTE5YjEwZjk5MmExMg==", "--loop"]
+ENTRYPOINT ["dotnet", "BasiqTestApp.dll", "--key=<API_KEY>", "--loop"]
