@@ -39,7 +39,7 @@ namespace BasiqTestApp
             }
             else
             {
-                char c = 'c';
+                int c = 1;
                 do
                 {
                     Console.Write("Please enter user id [Empty for default]: ");
@@ -60,10 +60,10 @@ namespace BasiqTestApp
                     float average = await manager.GetAverageValueAsync(userId, code);
                     Console.WriteLine($"Average spending per category '{code}': {average}");
 
-                    Console.WriteLine("Press <Enter> to run again or `e` to exit");
-                    c = Console.ReadKey().KeyChar;
+                    Console.WriteLine("Press <Enter> to run again or 'Ctrl->C' to exit");
+                    c = Console.Read();
                     Console.Clear();
-                } while (Settings.Loop && c != 'e');
+                } while (Settings.Loop && c != 0);
 
                 Console.ReadKey();
             }

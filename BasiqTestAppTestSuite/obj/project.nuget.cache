@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zNRfJvTn49KC5f7i81CTJtw9WaNex9NuhbxP7T4l6z1cSd1k8fu9WSIHw+GgNTDSSnoo7coxxARH1oICom1rdg==",
+  "dgSpecHash": "XXJEYxf4NYQP4K/4XFF1INpiHHhWPm3lx7AMpAlmC+ehwDXdoctATc5vBskWlcAcxNObBIXJr2L2SqgzOpaJaQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ZZ00ZJ707\\source\\repos\\BasiqTestApp\\BasiqTestAppTestSuite\\BasiqTestAppTestSuite.csproj",
   "expectedPackageFiles": [
@@ -62,6 +62,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\ZZ00ZJ707\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.5.0\\microsoft.testplatform.objectmodel.16.5.0.nupkg.sha512",
     "C:\\Users\\ZZ00ZJ707\\.nuget\\packages\\microsoft.testplatform.testhost\\16.5.0\\microsoft.testplatform.testhost.16.5.0.nupkg.sha512",
+    "C:\\Users\\ZZ00ZJ707\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
     "C:\\Users\\ZZ00ZJ707\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\ZZ00ZJ707\\.nuget\\packages\\mono.options\\6.12.0.148\\mono.options.6.12.0.148.nupkg.sha512",
     "C:\\Users\\ZZ00ZJ707\\.nuget\\packages\\moq\\4.16.1\\moq.4.16.1.nupkg.sha512",
