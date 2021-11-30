@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "alYye2wXDd0kQNiIjwyEm8tEACETK7YwmQuKWfZcCxErJaoK3Y0q0ixXUrWSmglwS57dGXDfyTA0Xx/D34OMLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZZ00ZJ707\\source\\repos\\BasiqTestApp\\BasiqTestAppIntegrationTest\\BasiqTestAppIntegrationTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZZ00ZJ707\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}

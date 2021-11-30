@@ -1,0 +1,7 @@
+C:\Users\ZZ00ZJ707\source\repos\BasiqTestApp\BasiqTestAppIntegrationTest\obj\Release\netcoreapp3.1\PubTmp\Out\BasiqTestAppIntegrationTest.exe
+C:\Users\ZZ00ZJ707\source\repos\BasiqTestApp\BasiqTestAppIntegrationTest\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\ZZ00ZJ707\source\repos\BasiqTestApp\BasiqTestAppIntegrationTest\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\ZZ00ZJ707\source\repos\BasiqTestApp\BasiqTestAppIntegrationTest\obj\Release\netcoreapp3.1\PubTmp\Out\BasiqTestAppIntegrationTest.dll
+C:\Users\ZZ00ZJ707\source\repos\BasiqTestApp\BasiqTestAppIntegrationTest\obj\Release\netcoreapp3.1\PubTmp\Out\BasiqTestAppIntegrationTest.deps.json
+C:\Users\ZZ00ZJ707\source\repos\BasiqTestApp\BasiqTestAppIntegrationTest\obj\Release\netcoreapp3.1\PubTmp\Out\BasiqTestAppIntegrationTest.runtimeconfig.json
+C:\Users\ZZ00ZJ707\source\repos\BasiqTestApp\BasiqTestAppIntegrationTest\obj\Release\netcoreapp3.1\PubTmp\Out\BasiqTestAppIntegrationTest.pdb
